@@ -1,5 +1,5 @@
 PODS:
-  - TWIconFont (0.1.0)
+  - TWIconFont (0.0.1)
 
 DEPENDENCIES:
   - TWIconFont (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TWIconFont: 1892fbf3d326715a9adfc9585d464c1e82063b23
+  TWIconFont: b9ef22141023369ad3f8ddd2f317b6b345cae2ad
 
 PODFILE CHECKSUM: 61af674ce4f5122d4d3c10aea32e3c602da9a5e6
 
