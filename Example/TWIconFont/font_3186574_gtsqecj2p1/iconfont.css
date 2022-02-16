@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3186574 */
+  src: url('iconfont.woff2?t=1644994854460') format('woff2'),
+       url('iconfont.woff?t=1644994854460') format('woff'),
+       url('iconfont.ttf?t=1644994854460') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-maohao:before {
+  content: "\e6da";
+}
+
+.icon-xiawu:before {
+  content: "\e65f";
+}
+
+.icon-shangwu:before {
+  content: "\e600";
+}
+
+.icon-xiegang-copy:before {
+  content: "\e6db";
+}
+
+.icon-shuzi:before {
+  content: "\e60f";
+}
+
+.icon-shuzi1:before {
+  content: "\e610";
+}
+
+.icon-shuzi2:before {
+  content: "\e611";
+}
+
+.icon-shuzi3:before {
+  content: "\e612";
+}
+
+.icon-shuzi4:before {
+  content: "\e613";
+}
+
+.icon-shuzi5:before {
+  content: "\e614";
+}
+
+.icon-shuzi6:before {
+  content: "\e615";
+}
+
+.icon-shuzi7:before {
+  content: "\e616";
+}
+
+.icon-shuzi9:before {
+  content: "\e617";
+}
+
+.icon-shuzi10:before {
+  content: "\e618";
+}
+

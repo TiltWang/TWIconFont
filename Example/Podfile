@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TWIconFont_Example' do
+  pod 'TWIconFont', :path => '../'
+
+  target 'TWIconFont_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
